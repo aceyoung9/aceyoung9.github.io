@@ -1,7 +1,7 @@
 import React from "react"
 
 export default () => (
-  <div style={{ maxWidth: 980, margin: "30px auto" }}>
+  <div style={{ maxWidth: 650, margin: "30px auto" }}>
     <h1>Hello, my name is Ace Young</h1>
 
     <small>
