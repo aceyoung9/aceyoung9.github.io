@@ -1,10 +1,14 @@
 import React from "react"
 
 export default () => (
-  <div>
+  <div style={{ maxWidth: 980, margin: "30px auto" }}>
     <h1>Hello, my name is Ace Young</h1>
 
-    <small>Pronouns: they/them or she/her<br/>Fun fact: I don’t have a gender.</small>
+    <small>
+      Pronouns: they/them or she/her
+      <br />
+      Fun fact: I don’t have a gender.
+    </small>
 
     <p>
       I’m a front-end developer at Tank Design. I love writing weird CSS and
@@ -13,8 +17,8 @@ export default () => (
     </p>
 
     <p>
-      These days, I’m trying to learn more about design systems. Also how to
-      maintain a bicycle.
+      These days, I’m trying to learn more about design systems. Also how bikes
+      work. Also about public transportation policy.
     </p>
 
     <p>
@@ -29,7 +33,8 @@ export default () => (
         <a href="https://github.com/aceyoung9">Github: aceyoung9</a>
       </li>
       <li>
-        I am on Twitter, but I probably won’t add you unless we’re friends offline. Or if you repost Good Takes. Or high-quality memes.
+        I am on Twitter, but I probably won’t add you unless we’re friends
+        offline.
       </li>
     </ul>
   </div>
