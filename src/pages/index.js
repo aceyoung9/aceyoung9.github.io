@@ -9,15 +9,25 @@ const GlobalStyle = createGlobalStyle`
 
     color: #273195;
     font-size: 1.4em;
+
+    @media (max-width: 600px) {
+      min-height: calc(100vh - 40px);
+      font-size: 1.2em;
+    }
   }
 `
 
 const Container = styled.div`
   background: #f2eff9;
-  margin: 60px 0 0 60px;
+  margin: 60px auto 0 60px;
   max-width: 780px;
   padding: 30px;
   box-sizing: border-box;
+
+  @media (max-width: 600px) {
+    margin: 20px;
+    padding: 15px;
+  }
 
   h1 {
     margin-top: 0;
