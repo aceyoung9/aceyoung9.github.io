@@ -1,41 +1,69 @@
 import React from "react"
+import styled, { createGlobalStyle } from "styled-components"
+
+const GlobalStyle = createGlobalStyle`
+  body {
+    background: linear-gradient(120deg, #8e78ff, #fc7d7b);
+    min-height: calc(100vh - 60px);
+    margin: 0;
+
+    color: #273195;
+    font-size: 1.4em;
+  }
+`
+
+const Container = styled.div`
+  background: #f2eff9;
+  margin: 60px 0 0 60px;
+  max-width: 780px;
+  padding: 30px;
+  box-sizing: border-box;
+
+  h1 {
+    margin-top: 0;
+  }
+`
 
 export default () => (
-  <div style={{ maxWidth: 650, margin: "30px auto" }}>
-    <h1>Hello, my name is Ace Young</h1>
+  <>
+    <GlobalStyle />
 
-    <small>
-      Pronouns: they/them or she/her
-      <br />
-      Fun fact: I don’t have a gender.
-    </small>
+    <Container>
+      <h1>Hello, my name is Ace Young</h1>
 
-    <p>
-      I’m a front-end developer at Tank Design. I love writing weird CSS and
-      even weirder JavaScript. Not incomprehensibly weird, or utterly
-      unextendable by others. Just mildly funky code.
-    </p>
+      <small>
+        Pronouns: they/them or she/her
+        <br />
+        Fun fact: I don’t have a gender.
+      </small>
 
-    <p>
-      These days, I’m trying to learn more about design systems. Also how bikes
-      work. Also about public transportation policy.
-    </p>
+      <p>
+        I’m a front-end developer at Tank Design. I love writing weird CSS and
+        even weirder JavaScript. Not incomprehensibly weird, or utterly
+        unextendable by others. Just mildly funky code.
+      </p>
 
-    <p>
-      I used to have a very pretty website with lots of artwork. One day all
-      those paintings of dead birds will be moved here.
-    </p>
+      <p>
+        These days, I’m trying to learn more about design systems. Also how
+        bikes work. Also about public transportation policy.
+      </p>
 
-    <h3>Contact:</h3>
-    <ul>
-      <li>ace.young289@gmail.com</li>
-      <li>
-        <a href="https://github.com/aceyoung9">Github: aceyoung9</a>
-      </li>
-      <li>
-        I am on Twitter, but I probably won’t add you unless we’re friends
-        offline.
-      </li>
-    </ul>
-  </div>
+      <p>
+        I used to have a very pretty website with lots of artwork. One day all
+        those paintings of dead birds will be moved here.
+      </p>
+
+      <h3>Contact:</h3>
+      <ul>
+        <li>ace.young289@gmail.com</li>
+        <li>
+          <a href="https://github.com/aceyoung9">Github: aceyoung9</a>
+        </li>
+        <li>
+          I am on Twitter, but I probably won’t add you unless we’re friends
+          offline.
+        </li>
+      </ul>
+    </Container>
+  </>
 )
