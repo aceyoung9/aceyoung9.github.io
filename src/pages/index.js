@@ -54,14 +54,32 @@ export default () => (
       </p>
 
       <p>
-        These days, I’m trying to learn more about design systems. Also how
-        bikes work. Also about public transportation policy.
+        Currently learning about:
+        <ul>
+          <li>Design systems</li>
+          <li>Bike maintenance</li>
+          <li>Public transportation policy</li>
+        </ul>
       </p>
 
       <p>
         I used to have a very pretty website with lots of artwork. One day all
         those paintings of dead birds will be moved here.
       </p>
+
+      <h3>Side Projects:</h3>
+      <ul>
+        <li>
+          <a href="http://tw-photos.aceyoung.online/">
+            Some photos from my trip to Taiwan.
+          </a>
+        </li>
+        <li>
+          <a href="http://aceyoung.xyz/bike-accident-counter-site/">
+            The Bike Accident Counter
+          </a>
+        </li>
+      </ul>
 
       <h3>Contact:</h3>
       <ul>
