@@ -9,6 +9,7 @@ const GlobalStyle = createGlobalStyle`
 
     color: #273195;
     font-size: 1.4em;
+    line-height: 1.4;
 
     @media (max-width: 600px) {
       min-height: calc(100vh - 40px);
@@ -54,18 +55,26 @@ export default () => (
       </p>
 
       <p>
-        Currently learning about:
-        <ul>
-          <li>Design systems</li>
-          <li>Bike maintenance</li>
-          <li>Public transportation policy</li>
-        </ul>
-      </p>
-
-      <p>
         I used to have a very pretty website with lots of artwork. One day all
         those paintings of dead birds will be moved here.
       </p>
+
+      <h4>Currently learning about:</h4>
+      <ul>
+        <li>Design systems</li>
+        <li>Bike maintenance</li>
+        <li>Public transportation policy</li>
+      </ul>
+
+      <h4>Recently Read:</h4>
+      <ul>
+        <li>
+          <a href="https://www.teenvogue.com/story/decolonize-art-photography">
+            The ‘Art World’ Can’t Exist in a Decolonized Future
+          </a>{" "}
+          by Angie Jaime. Published June 30, 2020
+        </li>
+      </ul>
 
       <h3>Side Projects:</h3>
       <ul>
