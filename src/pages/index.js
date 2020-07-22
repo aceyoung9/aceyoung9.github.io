@@ -69,6 +69,12 @@ export default () => (
       <h4>Recently Read:</h4>
       <ul>
         <li>
+          <a href="https://medium.com/wan-coffee/the-ba-test-kitchen-revolts-a1c4f51a9fb9">
+            The Bon Appétit Test Kitchen Revolts
+          </a>{" "}
+          by Justin Lee. Published July 16, 2020
+        </li>
+        <li>
           <a href="https://www.teenvogue.com/story/decolonize-art-photography">
             The ‘Art World’ Can’t Exist in a Decolonized Future
           </a>{" "}
