@@ -49,9 +49,9 @@ export default () => (
       </small>
 
       <p>
-        I’m a front-end developer at Tank Design. I love writing weird CSS and
-        even weirder JavaScript. Not incomprehensibly weird, or utterly
-        unextendable by others. Just mildly funky code.
+        I’m a front-end developer, and I love writing weird CSS and even weirder
+        JavaScript. Not incomprehensibly weird, or utterly unextendable by
+        others. Just mildly funky code.
       </p>
 
       <p>
