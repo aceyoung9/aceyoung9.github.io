@@ -69,6 +69,13 @@ export default () => (
       <h4>Recently Read:</h4>
       <ul>
         <li>
+          <a href="https://islandpress.org/books/right-way">
+            Right of Way: Race, Class, and the Silent Epidemic of Pedestrian
+            Deaths in America
+          </a>{" "}
+          by Angie Schmitt
+        </li>
+        <li>
           <a href="https://medium.com/wan-coffee/the-ba-test-kitchen-revolts-a1c4f51a9fb9">
             The Bon Appétit Test Kitchen Revolts
           </a>{" "}
