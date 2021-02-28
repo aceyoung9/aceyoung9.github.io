@@ -45,8 +45,12 @@ export default () => (
     <h3>Side Projects:</h3>
     <ul>
       <li>
+        <a href="//garden.aceyoung.online">Digital Garden</a>. It's like a blog,
+        but without actual writing.
+      </li>
+      <li>
         <a href="http://tw-photos.aceyoung.online/">
-          Some photos from my trip to Taiwan.
+          Some photos from my trip to Taiwan
         </a>
       </li>
       <li>
