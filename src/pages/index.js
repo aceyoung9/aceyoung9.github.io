@@ -12,11 +12,7 @@ export default () => (
       Fun fact: I don’t have a gender.
     </small>
 
-    <p>
-      I’m a front-end developer, and I love writing weird CSS and even weirder
-      JavaScript. Not incomprehensibly weird, or utterly unextendable by others.
-      Just mildly funky code.
-    </p>
+    <p>I’m a bike mechanic / front-end developer.</p>
 
     <p>
       I used to have a very pretty website with lots of artwork. One day all
@@ -26,7 +22,6 @@ export default () => (
     <h4>Currently learning about:</h4>
     <ul>
       <li>Design systems</li>
-      <li>Bike maintenance</li>
       <li>Public transportation policy</li>
     </ul>
 
