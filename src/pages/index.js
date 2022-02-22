@@ -62,6 +62,11 @@ export default () => (
         <a href="https://github.com/aceyoung9">Github: aceyoung9</a>
       </li>
       <li>
+        <a href="https://www.instagram.com/acepaint289/">
+          Instagram: @acepaint289
+        </a>
+      </li>
+      <li>
         I am on Twitter, but I probably won’t add you unless we’re friends
         offline.
       </li>
