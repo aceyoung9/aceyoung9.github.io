@@ -12,7 +12,7 @@ export default () => (
       Fun fact: I don’t have a gender.
     </small>
 
-    <p>I’m a bike mechanic / front-end developer.</p>
+    <p>I’m an artist / bike mechanic / front-end developer.</p>
 
     <p>
       I used to have a very pretty website with lots of artwork. One day all
