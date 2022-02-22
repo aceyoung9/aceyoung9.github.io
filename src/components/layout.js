@@ -20,7 +20,7 @@ const GlobalStyle = createGlobalStyle`
 
 const Container = styled.div`
   background: #f2eff9;
-  margin: 60px auto 0 60px;
+  margin: 60px auto 60px 60px;
   max-width: 780px;
   padding: 30px;
   box-sizing: border-box;

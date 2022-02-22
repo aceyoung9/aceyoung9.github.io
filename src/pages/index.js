@@ -2,7 +2,7 @@ import { Link } from "gatsby"
 import React from "react"
 import Layout from "../components/layout"
 
-export default () => (
+const HomePage = () => (
   <Layout>
     <h1>Hello, my name is Ace Young</h1>
 
@@ -73,3 +73,5 @@ export default () => (
     </ul>
   </Layout>
 )
+
+export default HomePage
