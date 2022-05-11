@@ -19,6 +19,12 @@ const HomePage = () => (
       those paintings of dead birds will be moved here.
     </p>
 
+    <p>
+      I started an online shop recently. If you like bikes, trans rights, and
+      sparkly/holographic stickers, you should{" "}
+      <a href="https://shop.aceyoung.xyz">take a peek at the pre-order sale.</a>
+    </p>
+
     <h4>Currently learning about:</h4>
     <ul>
       <li>Design systems</li>
