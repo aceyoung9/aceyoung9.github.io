@@ -10,6 +10,12 @@ const LinkArchive = () => {
 
       <ul>
         <li>
+          <a href="https://design.facebook.com/stories/navigating-whiteness-part-1/">
+            Navigating whiteness, part 1
+          </a>{" "}
+          by Timothy Bardlavens. Published February 23, 2021
+        </li>
+        <li>
           <a href="https://islandpress.org/books/right-way">
             Right of Way: Race, Class, and the Silent Epidemic of Pedestrian
             Deaths in America

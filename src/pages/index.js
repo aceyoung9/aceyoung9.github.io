@@ -25,19 +25,22 @@ const HomePage = () => (
       <a href="https://shop.aceyoung.xyz">take a peek at the pre-order sale.</a>
     </p>
 
-    <h4>Currently learning about:</h4>
-    <ul>
-      <li>Design systems</li>
-      <li>Public transportation policy</li>
-    </ul>
-
-    <h4>Recently Read:</h4>
+    <h4>Currently Reading:</h4>
     <ul>
       <li>
-        <a href="https://design.facebook.com/stories/navigating-whiteness-part-1/">
-          Navigating whiteness, part 1
+        <a href="https://us.macmillan.com/books/9780374538668/blockchainchickenfarm">
+          <em>
+            Blockchain Chicken Farm And Other Stories of Tech in China's
+            Countryside
+          </em>
         </a>{" "}
-        by Timothy Bardlavens. Published February 23, 2021
+        by Xiaowei Wang
+      </li>
+      <li>
+        <em>
+          Kingdom of Characters: The language revolution that made China modern
+        </em>{" "}
+        by Jing Tsu
       </li>
     </ul>
 
