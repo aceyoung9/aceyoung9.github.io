@@ -20,9 +20,8 @@ const HomePage = () => (
     </p>
 
     <p>
-      I started an online shop recently. If you like bikes, trans rights, and
-      sparkly/holographic stickers, you should{" "}
-      <a href="https://shop.aceyoung.xyz">take a peek at the pre-order sale.</a>
+      Lately I’ve been selling some prints and stickers{" "}
+      <a href="https://shop.aceyoung.xyz">on my little online shop</a>.
     </p>
 
     <h4>Currently Reading:</h4>
