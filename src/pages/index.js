@@ -6,17 +6,15 @@ const HomePage = () => (
   <Layout>
     <h1>Hello, my name is Ace Young</h1>
 
-    <small>
-      Pronouns: they/them or she/her
-      <br />
-      Fun fact: I don’t have a gender.
-    </small>
+    <small>Pronouns: they/them or she/her</small>
 
-    <p>I’m an artist / bike mechanic / front-end developer.</p>
+    <p>I’m a bike mechanic / artist / front-end developer.</p>
 
     <p>
       I used to have a very pretty website with lots of artwork. One day all
-      those paintings of dead birds will be moved here.
+      those paintings of dead birds will be moved here. In the meantime, art
+      updates can be found on{" "}
+      <a href="https://www.instagram.com/acepaint289/">Instagram</a>.
     </p>
 
     <p>
@@ -27,6 +25,12 @@ const HomePage = () => (
     <h4>Currently Reading:</h4>
     <ul>
       <li>
+        <a href="https://bookshop.org/p/books/giving-in-jessie-lian/20547602?ean=9798988931805">
+          <em>Giving In</em>
+        </a>{" "}
+        by Jessie Lian
+      </li>
+      <li>
         <a href="https://us.macmillan.com/books/9780374538668/blockchainchickenfarm">
           <em>
             Blockchain Chicken Farm And Other Stories of Tech in China's
@@ -34,12 +38,6 @@ const HomePage = () => (
           </em>
         </a>{" "}
         by Xiaowei Wang
-      </li>
-      <li>
-        <em>
-          Kingdom of Characters: The language revolution that made China modern
-        </em>{" "}
-        by Jing Tsu
       </li>
     </ul>
 
@@ -56,11 +54,6 @@ const HomePage = () => (
           Some photos from my trip to Taiwan
         </a>
       </li>
-      <li>
-        <a href="http://aceyoung.xyz/bike-accident-counter-site/">
-          The Bike Accident Counter
-        </a>
-      </li>
     </ul>
 
     <h3>Contact:</h3>
@@ -73,10 +66,6 @@ const HomePage = () => (
         <a href="https://www.instagram.com/acepaint289/">
           Instagram: @acepaint289
         </a>
-      </li>
-      <li>
-        I am on Twitter, but I probably won’t add you unless we’re friends
-        offline.
       </li>
     </ul>
   </Layout>

@@ -10,6 +10,13 @@ const LinkArchive = () => {
 
       <ul>
         <li>
+          <em>
+            Kingdom of Characters: The language revolution that made China
+            modern
+          </em>{" "}
+          by Jing Tsu
+        </li>
+        <li>
           <a href="https://design.facebook.com/stories/navigating-whiteness-part-1/">
             Navigating whiteness, part 1
           </a>{" "}
