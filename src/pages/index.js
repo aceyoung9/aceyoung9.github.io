@@ -1,5 +1,7 @@
 import { Link } from "gatsby"
 import React from "react"
+import { StaticImage } from "gatsby-plugin-image"
+
 import Layout from "../components/layout"
 
 const HomePage = () => (
@@ -9,6 +11,13 @@ const HomePage = () => (
     <small>Pronouns: they/them or she/her</small>
 
     <p>I’m a bike mechanic / artist / front-end developer.</p>
+
+    <StaticImage
+      src="../img/bikes.jpg"
+      placeholder="blurred"
+      width={720}
+      alt="One of my favorite bikes leaning on a bike rack"
+    />
 
     <p>
       I used to have a very pretty website with lots of artwork. One day all
