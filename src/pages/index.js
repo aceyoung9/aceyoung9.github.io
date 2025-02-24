@@ -34,6 +34,12 @@ const HomePage = () => (
     <h4>Currently Reading:</h4>
     <ul>
       <li>
+        <a href="https://www.umasspress.com/9781625344113/bostons-twentieth-century-bicycling-renaissance/">
+          <em>Boston’s Twentieth-Century Bicycling Renaissance</em>
+        </a>{" "}
+        by Lorenz J. Finison
+      </li>
+      <li>
         <a href="https://bookshop.org/p/books/giving-in-jessie-lian/20547602?ean=9798988931805">
           <em>Giving In</em>
         </a>{" "}
