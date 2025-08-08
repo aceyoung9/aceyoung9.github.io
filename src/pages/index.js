@@ -34,25 +34,10 @@ const HomePage = () => (
     <h4>Currently Reading:</h4>
     <ul>
       <li>
-        <a href="https://www.umasspress.com/9781625344113/bostons-twentieth-century-bicycling-renaissance/">
-          <em>Boston’s Twentieth-Century Bicycling Renaissance</em>
+        <a href="https://theradavist.com/angels-maxway-cycles-zephyrus-road">
+          Angel’s Maxway Cycles Zephyrus Road Bike: Steel, Coffee, Clay.
         </a>{" "}
-        by Lorenz J. Finison
-      </li>
-      <li>
-        <a href="https://bookshop.org/p/books/giving-in-jessie-lian/20547602?ean=9798988931805">
-          <em>Giving In</em>
-        </a>{" "}
-        by Jessie Lian
-      </li>
-      <li>
-        <a href="https://us.macmillan.com/books/9780374538668/blockchainchickenfarm">
-          <em>
-            Blockchain Chicken Farm And Other Stories of Tech in China's
-            Countryside
-          </em>
-        </a>{" "}
-        by Xiaowei Wang
+        by Daniel Yang. Published May 26, 2025
       </li>
     </ul>
 
