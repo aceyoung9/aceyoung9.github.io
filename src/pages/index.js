@@ -31,14 +31,13 @@ const HomePage = () => (
       <a href="https://shop.aceyoung.xyz">on my little online shop</a>.
     </p>
 
-    <h4>Currently Reading:</h4>
+    <h4>Recent finds:</h4>
     <ul>
-      <li>
-        <a href="https://theradavist.com/angels-maxway-cycles-zephyrus-road">
-          Angel’s Maxway Cycles Zephyrus Road Bike: Steel, Coffee, Clay.
-        </a>{" "}
-        by Daniel Yang. Published May 26, 2025
-      </li>
+      <a href="https://www.newyorker.com/magazine/2017/01/02/to-speak-is-to-blunder">
+        To Speak Is to Blunder
+      </a>{" "}
+      by Yiyun Li. Published in the print edition of the January 2, 2017 issue.
+      Retrieved December 17, 2025.
     </ul>
 
     <Link to="/link-archive">Link Archive</Link>
@@ -50,9 +49,11 @@ const HomePage = () => (
         but without actual writing.
       </li>
       <li>
-        <a href="http://tw-photos.aceyoung.online/">
-          Some photos from my trip to Taiwan
-        </a>
+        <s>
+          <a href="http://tw-photos.aceyoung.online/">
+            Some photos from my trip to Taiwan
+          </a>
+        </s>
       </li>
     </ul>
 

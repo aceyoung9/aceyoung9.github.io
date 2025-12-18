@@ -10,6 +10,12 @@ const LinkArchive = () => {
 
       <ul>
         <li>
+          <a href="https://theradavist.com/angels-maxway-cycles-zephyrus-road">
+            Angel’s Maxway Cycles Zephyrus Road Bike: Steel, Coffee, Clay.
+          </a>{" "}
+          by Daniel Yang. Published May 26, 2025
+        </li>
+        <li>
           <a href="https://www.umasspress.com/9781625344113/bostons-twentieth-century-bicycling-renaissance/">
             <em>Boston’s Twentieth-Century Bicycling Renaissance</em>
           </a>{" "}
