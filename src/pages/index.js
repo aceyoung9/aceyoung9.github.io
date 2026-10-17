@@ -64,8 +64,8 @@ const HomePage = () => (
         <a href="https://github.com/aceyoung9">Github: aceyoung9</a>
       </li>
       <li>
-        <a href="https://www.instagram.com/acepaint289/">
-          Instagram: @acepaint289
+        <a href="https://www.instagram.com/the.play.studio289/">
+          Instagram: @the.play.studio289
         </a>
       </li>
     </ul>
